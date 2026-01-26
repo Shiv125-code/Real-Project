@@ -12,6 +12,10 @@ This project presents an interactive Power BI dashboard that analyzes Air Qualit
 
 The dashboard transforms raw AQI data into actionable insights for understanding environmental conditions and public health risks.
 
+
+
+
+
 ❗ Why Air Quality Is a Serious Cause of Concern
 
 Poor air quality directly affects human health, climate, and overall quality of life.
